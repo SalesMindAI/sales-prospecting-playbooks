@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salesmindai.github.io/sales-prospecting-playbooks/sitemap.xml
